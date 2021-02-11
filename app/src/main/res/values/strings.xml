@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RickAndMorty</string>
+    <string name="details_label">Details:</string>
+    <string name="todo">TODO</string>
+
+    <string name="remove_from_favorites">Remove from favorites</string>
+    <string name="add_to_favorites">Add to favorites</string>
+
+    <string name="favorites_list">Favorites List</string>
+    <string name="complete_list">Complete List</string>
+</resources>
